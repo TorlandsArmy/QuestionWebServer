@@ -1,0 +1,15 @@
+
+ QuestionWEBSERVER v0.01
+------------------
+
+
+Forma de instalar :
+
+make
+make install
+
+Se instala en /usr/local/bin con el nombre de 'questionwebserver'.
+
+
+
+<Torlands.Axel>

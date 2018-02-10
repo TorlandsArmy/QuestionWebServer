@@ -1,0 +1,31 @@
+
+ QuestionWEBSERVER v0.01
+------------------
+
+
+Qwebserver es un programa que hicimos para refrescar un poco
+conceptos y porque ayudaa los que lo necesitan obtener informacion 
+Simplemente se conecta a un server
+HTTP y te dice la version que usa.
+
+
+Modo de uso:
+
+questionwebserver host/ip [puerto]
+
+
+Ejemplo:
+
+questionwebserver www.torlands.com
+
+o
+
+qwuestionebserver www.pepito.com 8080
+
+
+El parametro puerto es opcional, y si no se pone usa por defecto
+el valor 80.
+
+Torlands.Axel
+
+
